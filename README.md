@@ -1,6 +1,6 @@
 <div align="center">
   
-[![hi](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=100&color=white&center=true&vCenter=true&width=435&lines=killjuly)](https://git.io/typing-svg)
+[![hi](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=100&color=FFFFFF&center=true&vCenter=true&width=435&lines=killjuly)](https://git.io/typing-svg)
 
 ---
 
